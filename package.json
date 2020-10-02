@@ -1,0 +1,15 @@
+{
+  "name": "books-genre",
+  "version": "1.0.0",
+  "description": "A simple NPM package which returns users some well known books to read from specfied set of genre and allows them to recommend them to new books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Akhil Konduru",
+  "license": "ISC",
+  "dependencies": {}
+}
